@@ -62,3 +62,15 @@
 ![image](https://github.com/nancyalaswad90/AWS-Skill-Builder/assets/36210723/4fa91363-3751-4721-ac53-cd33e6a59139)
 
 .
+
+
+- [AWS Educate Introduction to Cloud 101](https://www.credly.com/earner/earned/badge/3fcad621-61ce-438b-a1d9-dd2622d1cadb)
+
+
+
+
+![image](https://github.com/nancyalaswad90/AWS-Skill-Builder/assets/36210723/a48774bd-5ee5-4a1b-a4e7-fa3bfe1de293)
+
+
+.
+
