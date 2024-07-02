@@ -46,10 +46,15 @@
 .
 
 
-- [AWS Billing and Cost Management]()
+- [AWS Billing and Cost Management](https://explore.skillbuilder.aws/learn/course/129/play;state=%5Bobject%20Object%5D;autoplay=0)
 
 
 
 
+![image](https://github.com/nancyalaswad90/AWS-Skill-Builder/assets/36210723/4b4b60a5-aa69-4caa-b563-68cbd287ed42)
 
 
+
+.
+
+- 
