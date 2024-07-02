@@ -30,9 +30,10 @@
 
 .
 
+![image](https://github.com/nancyalaswad90/AWS-Skill-Builder/assets/36210723/f99c772f-45ad-45d5-be88-973c50501af8)
 
 
-
+.
 
 - [Job Roles in the Cloud](https://explore.skillbuilder.aws/learn/course/156/play;state=%5Bobject%20Object%5D;autoplay=0)
 
