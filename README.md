@@ -57,4 +57,8 @@
 
 .
 
-- 
+- [Getting Started with Cloud Acquisition](https://explore.skillbuilder.aws/learn/course/1575/play;state=%5Bobject%20Object%5D;autoplay=0)
+
+![image](https://github.com/nancyalaswad90/AWS-Skill-Builder/assets/36210723/4fa91363-3751-4721-ac53-cd33e6a59139)
+
+.
