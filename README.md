@@ -33,16 +33,9 @@
 
 
 
-.
 
-- [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/H6WVVQ7DDU7H)
-
-
-![image](https://github.com/nancyalaswad90/Cyber-security-Work/assets/36210723/a759003e-dcb0-4af4-96f0-a7bd3ec7b18a)
 
 .
-
-
 
 
 - [AWS Cloud Practitioner Essentials  : ID: E-N0539V](https://explore.skillbuilder.aws/learn/course/134/play/66483/what-to-do-next)
@@ -54,18 +47,6 @@
 .
  
 
-- [new one ](https://explore.skillbuilder.aws/learn/course/156/play/80055/job-roles-in-the-cloud;lp=82) && [ this](https://explore.skillbuilder.aws/learn/course/134/play/99519/aws-cloud-practitioner-essentials)
-
-.
-- [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/PJXQSZBPKVAJ)
-
-  .
-![image](https://github.com/nancyalaswad90/Cyber-security-Work/assets/36210723/d26995b2-8efb-4efb-af6c-ba97838d5760)
-
-
-![image](https://github.com/nancyalaswad90/AWS-Skill-Builder/assets/36210723/8971da78-b1d8-45af-ad40-5a36c0652a87)
-
-.
 
 - [Job Roles in the Cloud](https://explore.skillbuilder.aws/learn/course/156/play;state=%5Bobject%20Object%5D;autoplay=0)
 
