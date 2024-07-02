@@ -1,28 +1,5 @@
 .
 
-> # AWS-Skill-Builder
-
-- [AWS Skill Builder Learner Guide](https://explore.skillbuilder.aws/learn/course/18443/AWS%2520Skill%2520Builder%2520Learner%2520Guide)
-
-.
-
-
-
-
-
-==========================
-
-# Cybersecurity Work
-
-
-
-### Arabic
-
-
-
-- [Youtub Course  دورة معتمد الأمن السيبراني كاملة](https://www.youtube.com/watch?v=WiYuS9ft78I)
-
-.
 > ## [Certifications for cloud ](https://explore.skillbuilder.aws/learn/mycourses)
 
 
@@ -47,6 +24,15 @@
 .
  
 
+> # AWS-Skill-Builder
+
+- [AWS Skill Builder Learner Guide](https://explore.skillbuilder.aws/learn/course/18443/AWS%2520Skill%2520Builder%2520Learner%2520Guide)
+
+.
+
+
+
+
 
 - [Job Roles in the Cloud](https://explore.skillbuilder.aws/learn/course/156/play;state=%5Bobject%20Object%5D;autoplay=0)
 
@@ -60,4 +46,9 @@
 
 
 - [AWS Billing and Cost Management]()
+
+
+
+
+
 
