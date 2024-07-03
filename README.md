@@ -4,7 +4,7 @@
 
 
 .
-### [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide]()
+### [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://github.com/nancyalaswad90/AWS-Certified-Cloud-Practitioner-CLF-C02-Exam-Guide/blob/main/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 
 
