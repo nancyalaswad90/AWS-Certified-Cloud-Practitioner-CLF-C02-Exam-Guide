@@ -4,7 +4,7 @@
 
 
 .
-### [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://github.com/nancyalaswad90/AWS-Certified-Cloud-Practitioner-CLF-C02-Exam-Guide/blob/main/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+
 
 
 
@@ -80,3 +80,10 @@
 .
 
 - [Introduction to the AWS Cloud Adoption Framework (CAF)](https://explore.skillbuilder.aws/learn/course/189/play/54063/introduction-to-the-aws-cloud-adoption-framework-caf)
+
+
+
+.
+
+
+> ### [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://github.com/nancyalaswad90/AWS-Certified-Cloud-Practitioner-CLF-C02-Exam-Guide/blob/main/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
