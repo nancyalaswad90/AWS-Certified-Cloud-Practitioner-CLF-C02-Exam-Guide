@@ -5,7 +5,7 @@
 
 .
 
-# [ Credly Bages ](https://www.credly.com/earner/earned)
+> # [ Credly Bages ](https://www.credly.com/earner/earned)
 
 
 - [Exam Prep Standard Course: AWS Certified Cloud Practitioner (CLF-C02 - English)](https://explore.skillbuilder.aws/learn/course/16434/play/93574/course-feedback)
