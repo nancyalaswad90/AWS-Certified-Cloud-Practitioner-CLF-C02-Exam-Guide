@@ -87,3 +87,15 @@
 
 
 > ### [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://github.com/nancyalaswad90/AWS-Certified-Cloud-Practitioner-CLF-C02-Exam-Guide/blob/main/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+
+
+
+.
+ # YouTube channels 
+
+ 
+
+- [Cloud simplify](https://youtube.com/playlist?list=PLJZLxa-J0VZSEVmKS8HQQoi09yB6IHigK&si=6TVlvpzOY4o7lykO)
+
+
+
