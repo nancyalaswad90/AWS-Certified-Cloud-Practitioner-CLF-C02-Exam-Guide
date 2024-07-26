@@ -100,4 +100,8 @@
 
 
 
+
 - [Udacity Optional Ideas](https://learn.udacity.com/nanodegrees/nd891/parts/d3a95ac5-da9b-48d5-8d5a-0e62ca3c9569/lessons/80486b5b-7467-4e5f-916d-ee5197bb126b/concepts/3198efd0-19db-4fd9-9bd4-8fce5827d6bf?lesson_tab=lesson)
+
+
+-[ Beginning phase](https://youtube.com/playlist?list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c&si=JyliboSAkk6Z-UJY)
