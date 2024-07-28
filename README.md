@@ -94,7 +94,8 @@
 .
  # YouTube channels 
 
- 
+
+ - [AWS Cloud Practitioner Course Arabic L7 : Majdi Broadcast](https://www.youtube.com/watch?v=JAxnD4PkQE0&list=PLdBjtAYjwLMgfQiRmlhEcaihoZ3AkXQDv)
 
 - [Cloud simplify](https://youtube.com/playlist?list=PLJZLxa-J0VZSEVmKS8HQQoi09yB6IHigK&si=6TVlvpzOY4o7lykO)
 
