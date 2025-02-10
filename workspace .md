@@ -1,4 +1,10 @@
+![image](https://github.com/user-attachments/assets/7090e0e0-b9ab-4230-a368-4f73386402f9)
+
+
+.
 ### **ترجمة محتويات الصورة إلى العربية:**
+
+.
 
 #### **ND9991 - الدورة الثانية - البنية التحتية ككود (Infrastructure as Code)**
 
