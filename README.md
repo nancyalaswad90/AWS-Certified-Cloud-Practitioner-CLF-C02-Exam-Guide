@@ -2,7 +2,9 @@
 
 > ## [Certifications for cloud ](https://explore.skillbuilder.aws/learn/mycourses)
 
+> ## Practice Exam
 
+- [Practice Exam1 ](https://kananinirav.com/practice-exam/exams.html)
 .
 
 
